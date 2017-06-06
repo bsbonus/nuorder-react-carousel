@@ -182,10 +182,6 @@ class Carousel extends Component {
     }
 
     autoPlay = () => {
-        if (!this.props.autoPlay) {
-            return;
-        }
-
         this.timer = setTimeout(() => {
             this.increment();
         }, this.props.interval);
