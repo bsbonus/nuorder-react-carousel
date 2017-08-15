@@ -1,5 +1,5 @@
 {
-  "name": "react-responsive-carousel",
+  "name": "nuorder-react-carousel",
   "version": "1.0.0",
   "description": "React Responsive Carousel fork from Leandro Augusto Lemos, http://leandrowd.github.io/",
   "author": "Brian Bonus <bsbonus@gmail.com>",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bsbonus/react-responsive-carousel.git"
+    "url": "git+https://github.com/bsbonus/nuorder-react-carousel.git"
   },
   "devDependencies": {
     "@kadira/react-storybook-addon-info": "^3.4.0",
@@ -91,7 +91,7 @@
     "react-easy-swipe": "^0.0.13"
   },
   "bugs": {
-    "url": "https://github.com/bsbonus/react-responsive-carousel/issues"
+    "url": "https://github.com/bsbonus/nuorder-react-carousel/issues"
   },
-  "homepage": "https://github.com/bsbonus/react-responsive-carousel#readme"
+  "homepage": "https://github.com/bsbonus/nuorder-react-carousel#readme"
 }
