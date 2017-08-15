@@ -1,10 +1,9 @@
 {
   "name": "react-responsive-carousel",
-  "version": "3.1.21",
-  "description": "React Responsive Carousel",
+  "version": "1.0.0",
+  "description": "React Responsive Carousel fork from Leandro Augusto Lemos, http://leandrowd.github.io/",
   "author": {
-    "name": "Leandro Augusto Lemos",
-    "url": "http://leandrowd.github.io/"
+    "name": "Brian Bonus"
   },
   "main": "./lib/index.js",
   "license": "MIT",
@@ -40,12 +39,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leandrowd/react-responsive-carousel.git"
+    "url": "https://github.com/bsbonus/react-responsive-carousel.git"
   },
-  "bugs": {
-    "url": "https://github.com/leandrowd/react-responsive-carousel/issues"
-  },
-  "homepage": "http://leandrowd.github.io/react-responsive-carousel/",
   "devDependencies": {
     "@kadira/react-storybook-addon-info": "^3.4.0",
     "@kadira/storybook": "^2.35.3",
